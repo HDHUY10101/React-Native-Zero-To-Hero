@@ -1,0 +1,3 @@
+alt + shift + F: format code
+ctrl + shift + F: search text phrase
+ctrl + space: display the options corresponding to the phrase
